@@ -13,19 +13,3 @@ If you don’t know how to make this and want to create your IoT application wit
 <p align="center">
   <a href="https://partners.thingpark.com/en">Developers Portal</a>
 </p>
-
-## DX-API Dataflow Swagger UI
-
-The purpose of this API is to provide the best experience for all developers who intend to interface with ThingPark applications to receive and send messages from their IoT devices.
-  
-To understand the working architecture of a dataflow, see the next figure. This figure shows the main parts of a Dataflow which is composed by a binder processor, a decoder unit, and a 1-to-N connector. Components that must be defined in the application.
-
-![dx-api dataflow scheme](https://user-images.githubusercontent.com/41436968/43260523-13949d42-90da-11e8-8196-ddb6b9352db6.jpg)
-
-To get started follow the next link, introduce your credentials and you will have access to the DX-API application and documentation:
-
-<p align="center">
-  <a href="https://dx-api.thingpark.com/getstarted/#/">Get Started</a>
-</p>
-
-Select the “DX Dataflow API Swagger-UI” and follow the next steps to create your Dataflow.
