@@ -10,6 +10,9 @@ Keep in mind that these tutorials are intended for users that already play with 
 
 If you don’t know how to make this and want to create your IoT application with Actility, you just need to create a new account in our Developers Portal and read our Advanced Developer Guide attached in this repository. Here you have all the tools to get started with Actility!
 
+<p align="center">
+  <a href="https://partners.thingpark.com/en">Developers Portal</a>
+</p>
 
 ## DX-API Dataflow Swagger UI
 
