@@ -9,7 +9,7 @@ You could know the different parameters for each connector going to the DX-API d
 For use the documentation go to:
 
 <p align="center">
-  <a href="https://dx-api.thingpark.com/dataflow/latest/product/connectors.html">Dataflows Documentation</a> 
+  <a href="https://dx-api.thingpark.com/dataflow/latest/product/connectors.html">DX-API Dataflow Documentation</a> 
 </p>
 
 For use the DX-API Dataflow application click on the Swagger UI button:
