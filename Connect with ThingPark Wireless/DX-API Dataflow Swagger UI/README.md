@@ -22,7 +22,7 @@ Select the “DX Dataflow API Swagger-UI” and follow the next steps to create 
   <img src="https://user-images.githubusercontent.com/41436968/43272237-c500bbfa-90f9-11e8-8aac-79b854e2a856.png">
 </p>
 
-To create a dataflow, you need to know that each dataflow has its own parameters that you need to define and write down in the DX-API Swagger user interface in a JSON or XML format and will create your Dataflow automatically. For each connector there are different parameters that you could use and for help subscribers in the "Connectors Example Code" and "Connectors Templates" folders you will find examples codes with the only the mandatory information for the Dataflow connectors in JSON format. Remember that these connectors could have more parameters that you could find in the documentation.
+To create a dataflow, you need to know that each dataflow has its own parameters that you need to define and write down in the DX-API Swagger user interface in a JSON or XML format to create your Dataflow. For each connector there are different parameters that you could use and for help subscribers in the "Connectors Example Code" and "Connectors Templates" folders you will find examples codes with the only the mandatory information for the Dataflow connectors in JSON format. Remember that these connectors could have more parameters that you could find in the documentation.
 
 Now with this examples codes you can change the required information and follow the next steps:
 
