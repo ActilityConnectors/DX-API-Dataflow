@@ -3,8 +3,10 @@
 The purpose of this API is to provide the best experience for all developers who want to interface with ThingPark applications to receive and send messages from their IoT devices.
 
 ### Link to theory
-If you want to familiarize yourself with the functioning of the DX-API Dataflow, do not hesitate and go to the “Dataflow Theory” folder! Here you could read how this tool works and where you could find its documentation. 
-
+If you want to familiarize yourself with the functioning of the DX-API Dataflow, do not hesitate and go to the DX-API documentation. Here you could read how this tool works in the front and back end. 
+<p align="center">
+  <a href="https://dx-api.thingpark.com/dataflow/latest/product/home.html">DX-API Documentation</a> 
+</p>
 On the other hand, if you know how the Dataflows works or you only want to create a quick proof-of-concept continue through the tutorial!
 
 ### DX-API Tutorial
