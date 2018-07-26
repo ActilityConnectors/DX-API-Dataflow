@@ -6,7 +6,7 @@ To use the ThingPark DX-API Dataflow application you need to have a ThingPark De
   •	POC
   •	IoT
 To understand the working architecture of a dataflow, see the Figure 1. This figure shows the main parts of a Dataflow which is composed by a binder processor, a decoder unit, and a 1-to-N connector. Components that must be defined in the application.
-
+![alt text](https://raw.githubusercontent.com/username/DX-API-Dataflow/Connect-with-ThingPark-Wireless/DX-API-Dataflow-Swagger-UI/DX-API Dataflow Scheme.png)
 To get started follow the next link, introduce your credentials and you will have access to the DX-API application and documentation:
 https://dx-api.thingpark.com/getstarted/#/
 Select the “DX Dataflow API Swagger-UI” and follow the next steps to create your Dataflow.
