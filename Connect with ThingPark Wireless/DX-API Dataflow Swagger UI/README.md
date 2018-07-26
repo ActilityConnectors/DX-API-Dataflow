@@ -8,7 +8,9 @@ You could know the different parameters for each connector going to the DX-API d
 
 For use the documentation go to:
 
-https://dx-api.thingpark.com/dataflow/latest/product/connectors.html
+<p align="center">
+  <a href="https://dx-api.thingpark.com/dataflow/latest/product/connectors.html">Dataflows Documentation</a> 
+</p>
 
 For use the DX-API Dataflow application click on the Swagger UI button:
  
@@ -41,6 +43,6 @@ Now with this examples codes you can change the required information and follow 
 
 After you receive this email now you can go to the Actility ThingPark interface or to the DX Core API and create a new routing profile that points to the next URL:
 
-https://dx-api.thingpark.com/dataflow/latest/api/uplinkMessages 
+<p align="center"> https://dx-api.thingpark.com/dataflow/latest/api/uplinkMessages </p>
 
 And your Dataflow will be ready and sending your device information every time that your device sends information to the Actility Network.
