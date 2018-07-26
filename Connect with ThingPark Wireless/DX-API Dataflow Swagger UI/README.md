@@ -1,22 +1,47 @@
 # DX-API Dataflow Swagger UI
 
-The purpose of this API is to provide the best experience for all developers who intend to interface with ThingPark applications to receive and send messages from they IoT devices.
-To use the ThingPark DX-API Dataflow application you need to have a ThingPark Developer account in any of the following network servers:
+To create a dataflow, you need to know that each dataflow has its own parameters that you will write down in the DX-API user interface in a JSON or XML format and will create your Dataflow automatically.
 
-- Dev1
-  
-- POC
-  
-- IoT
-  
-To understand the working architecture of a dataflow, see the Figure 1. This figure shows the main parts of a Dataflow which is composed by a binder processor, a decoder unit, and a 1-to-N connector. Components that must be defined in the application.
+Example of an AzureIoT connector
 
-![dx-api dataflow scheme](https://user-images.githubusercontent.com/41436968/43260523-13949d42-90da-11e8-8196-ddb6b9352db6.jpg)
+You could know the different parameters for each connector going to the DX-API documentation or using the ThingPark DX-API application (Swagger UI).
 
-To get started follow the next link, introduce your credentials and you will have access to the DX-API application and documentation:
+For use the documentation go to:
 
-<p align="center">
-  <a href="https://dx-api.thingpark.com/getstarted/#/">Get Started</a>
-</p>
+https://dx-api.thingpark.com/dataflow/latest/product/connectors.html
 
-Select the “DX Dataflow API Swagger-UI” and follow the next steps to create your Dataflow.
+
+
+For use the DX-API Dataflow application click on the Swagger UI button:
+ 
+Figure 2. Get Started Page ThingPark DX API Platform
+
+And click “Try out!” in the /connectorClasses GET request. Here you will find the different connectors with all the information of each parameter.
+
+As you may see in the documentation or in the application for each connector there are different parameters that you could use putting them in JSON or XML format. For help subscribers here you will find examples codes with the mandatory information for three Dataflow connectors in JSON format. Remember that these connectors could have more parameters that you could find in the documentation.
+
+Code HTTP connector
+
+Code MQTT connector
+
+Code AzureIoTHub connector
+
+Now with this examples codes you can change the required information and follow the next steps:
+
+- Go to the DX API Dataflow
+- Select the POST /bridgeDataflows request
+- Paste your code in the Value box as it shows Figures 4 and 5.
+ 
+Figure 4. MQTT Connector Example
+ 
+Figure 5. HTTP Connector Example
+- Click the “Try it out!” button
+- If you follow all the steps correctly your Dataflow will be waiting for the validation process. When the process is done you will receive the email displayed in Figure 3 with the information of your connector:
+ 
+Figure 3. ThingPark Dataflow Email
+
+After you receive this email now you can go to the Actility ThingPark interface or to the DX Core API and create a new routing profile that points to the next URL:
+
+https://dx-api.thingpark.com/dataflow/latest/api/uplinkMessages 
+
+And your Dataflow will be ready and sending your device information every time that your device sends information to the Actility Network.
