@@ -2,11 +2,17 @@
 
 
 To create a new MQTT dataflow here will be explained how to connect with a free third party MQTT broker called CloudMQTT.
+
 Prerequisites:
-•	ThingPark Wireless application in one of the following network servers: Dev1, IoT, POC.
-•	Device and Gateway registered in Actility ThingPark Wireless application.
-•	CloudMQTT account (could be a free or paid account).
+
+ •	ThingPark Wireless application in one of the following network servers: Dev1, IoT, POC.
+
+ •	Device and Gateway registered in Actility ThingPark Wireless application.
+
+ •	CloudMQTT account (could be a free or paid account).
+
 Configuration:
+
 •	Create an instance and go to details where you will find your MQTT host and the ports to connect using different protocols, see Figure 6.
  
 Figure 6. CloudMQTT Instance Details.
