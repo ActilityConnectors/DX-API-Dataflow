@@ -10,8 +10,6 @@ For use the documentation go to:
 
 https://dx-api.thingpark.com/dataflow/latest/product/connectors.html
 
-
-
 For use the DX-API Dataflow application click on the Swagger UI button:
  
 ![get started page](https://user-images.githubusercontent.com/41436968/43263823-ae9ec74a-90e4-11e8-8752-a70c172d1628.png)
