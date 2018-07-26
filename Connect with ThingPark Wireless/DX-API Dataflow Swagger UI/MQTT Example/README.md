@@ -32,7 +32,7 @@ With your CloudMQTT account you can go to the DX-API Dataflow application and fo
 
   •	Create your JSON/XML code filling the blank spaces in the following text:
 
-CloudMQTT Example
+[CloudMQTT Example](https://github.com/ActilityConnectors/Connectors-Code/blob/master/MQTT%20Blank.json "Go to File")
 
   •	Paste your code in the POST /bridgeDataflows request
 
