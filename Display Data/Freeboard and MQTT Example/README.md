@@ -31,7 +31,7 @@ Freeboard configuration:
 
 Now your connection to Freeboard is ready and you could choose the widget that fit the most to your data!
 
-Freeboard example with CloudMQTT:
+**Freeboard example with CloudMQTT:**
 
 In the Figure 13 you will find an example of the information that is need in Freeboard to connect with CloudMQTT taking the information of the previous CloudMQTT example created. Also, don’t forget to create a new user and password for the Freeboard connection, and retrieve all the information needed from CloudMQTT: Server URL, port and user credentials (Name and password).
 
