@@ -10,6 +10,22 @@ If you want to familiarize yourself with the functioning of the DX-API Dataflow,
 On the other hand, if you know how the Dataflows works or you only want to create a quick proof-of-concept continue through the tutorial!
 
 ### DX-API Tutorial
+To get started follow the next link, introduce your credentials and you will have access to the DX-API application and documentation:
+
+<p align="center">
+  <a href="https://dx-api.thingpark.com/getstarted/#/">Get Started</a>
+</p>
+
+Select the “DX Dataflow API Swagger-UI” and follow the next steps to create your Dataflow.
+
+To create a dataflow, you need to know that each dataflow has its own parameters that you will write down in the DX-API user interface in a JSON or XML format and will create your Dataflow automatically.
+
+<p align="center">
+  <a href="https://github.com/ActilityConnectors/DX-API-Dataflow/blob/master/Connect%20with%20ThingPark%20Wireless/DX-API%20Dataflow%20Swagger%20UI/Connectors%20Example%20Code/AzureIoTHub%20Connector.json">Example of an AzureIoT connector</a> 
+</p>
+
+You could know the different parameters for each connector going to the DX-API documentation or using the ThingPark DX-API application (Swagger UI).
+
 As you may see in the documentation or in the application, for each connector there are different parameters that you could use putting them in JSON or XML format. For help subscribers in the "Connectors Example Code" and "Connectors Templates" folders you will find examples codes with the mandatory information for the Dataflow connectors in JSON format. Remember that these connectors could have more parameters that you could find in the documentation.
 
 Now with this examples codes you can change the required information and follow the next steps:
