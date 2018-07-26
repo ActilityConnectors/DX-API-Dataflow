@@ -5,29 +5,29 @@ Freeboard is a simple web panel that shows the information of the different IoT 
 
 Prerequisites to display your data in Freeboard:
 
-•	ThingPark Wireless application in one of the following network servers: Dev1, IoT, POC.
+- ThingPark Wireless application in one of the following network servers: Dev1, IoT, POC.
 
-•	Device and Gateway registered in Actility ThingPark Wireless application.
+- Device and Gateway registered in Actility ThingPark Wireless application.
 
-•	MQTT broker connected with Actility ThingPark Wireless through a dataflow and AS routing profile previously created.
+- MQTT broker connected with Actility ThingPark Wireless through a dataflow and AS routing profile previously created.
 
 Freeboard configuration:
 
-•	Create a free trial account in https://freeboard.io/.
+- Create a free trial account in https://freeboard.io/.
 
-•	Log in and create a new dashboard in https://freeboard.io/account/.
+- Log in and create a new dashboard in https://freeboard.io/account/.
  
-Figure 9. Dashboard Creation
+![freeboard dashboard](https://user-images.githubusercontent.com/41436968/43262327-06ab794c-90e0-11e8-95b0-78ea14ca6f07.jpg)
 
-•	Create a “datasource” inside your new dashboard and select the protocol or network server from where you want to retrieve the device information. In this case will be MQTT protocol.
+- Create a “datasource” inside your new dashboard and select the protocol or network server from where you want to retrieve the device information. In this case will be MQTT protocol.
  
-Figure 10. Add New DataSource
+![freeboard datasource](https://user-images.githubusercontent.com/41436968/43262334-0cb1f08c-90e0-11e8-83cd-542106552632.jpg)
  
-Figure 11. MQTT Selection
+![freeboard mqtt](https://user-images.githubusercontent.com/41436968/43262341-13433d66-90e0-11e8-850d-360d84c85413.jpg)
 
-•	Put the information of your MQTT broker which will send your device information to Freeboard.
+- Put the information of your MQTT broker which will send your device information to Freeboard.
  
-Figure 12. Connection with a MQTT Broker
+![freeboard template example](https://user-images.githubusercontent.com/41436968/43262358-244ef9a6-90e0-11e8-86b4-e920e999b382.png)
 
 Now your connection to Freeboard is ready and you could choose the widget that fit the most to your data!
 
@@ -37,5 +37,4 @@ In the Figure 13 you will find an example of the information that is need in Fre
 
 With the information from your MQTT broker go to the Datasource creation, click add and put the information displayed in Figure 13. After following these steps, you will have connected Freeboard with CloudMQTT and you are ready to display the device decoded data!
  
-Figure 13. Connection with CloudMQTT
-
+![freeboard cloudmqtt](https://user-images.githubusercontent.com/41436968/43262363-29b746dc-90e0-11e8-846a-46e186fb2ccd.jpg)
