@@ -21,9 +21,9 @@ Prerequisites:
 ![user credentials](https://user-images.githubusercontent.com/41436968/43262794-ab4031fe-90e1-11e8-822e-973e794b3a70.png)
 
 - Finally, create a topic from where you expect to receive data, you could use a wild card topic using the “#” symbol and give the Read and Write access to the user.
- 
+<p align="center">
 ![user topic](https://user-images.githubusercontent.com/41436968/43262799-ac8277d4-90e1-11e8-8441-c29f86f70488.png)
-
+</p>
 - With this configuration you are ready to create and test a MQTT Dataflow! Save the information obtained in the previous steps: Server URL, port protocol and number, user name and password.
 
 With your CloudMQTT account you can go to the DX-API Dataflow application and follow the next steps:
