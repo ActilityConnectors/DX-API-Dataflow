@@ -22,13 +22,7 @@ For use the DX-API Dataflow application click on the Swagger UI button:
 
 And click “Try out!” in the /connectorClasses GET request. Here you will find the different connectors with all the information of each parameter.
 
-As you may see in the documentation or in the application for each connector there are different parameters that you could use putting them in JSON or XML format. For help subscribers here you will find examples codes with the mandatory information for three Dataflow connectors in JSON format. Remember that these connectors could have more parameters that you could find in the documentation.
-
-Code HTTP connector
-
-Code MQTT connector
-
-Code AzureIoTHub connector
+As you may see in the documentation or in the application, for each connector there are different parameters that you could use putting them in JSON or XML format. For help subscribers in the "Connectors Example Code" and "Connectors Templates" folders you will find examples codes with the mandatory information for the Dataflow connectors in JSON format. Remember that these connectors could have more parameters that you could find in the documentation.
 
 Now with this examples codes you can change the required information and follow the next steps:
 
