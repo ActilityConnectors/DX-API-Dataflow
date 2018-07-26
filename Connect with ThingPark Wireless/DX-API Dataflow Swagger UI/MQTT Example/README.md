@@ -27,6 +27,7 @@ Figure 8. User Topic and Permits Creation.
   •	With this configuration you are ready to create and test a MQTT Dataflow! Save the information obtained in the previous steps: Server URL, port protocol and number, user name and password.
 
 With your CloudMQTT account you can go to the DX-API Dataflow application and follow the next steps:
+
   •	Select the POST /bridgeDataflows request
 
   •	Create your JSON/XML code filling the blank spaces in the following text:
