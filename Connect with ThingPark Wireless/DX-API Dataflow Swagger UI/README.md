@@ -2,7 +2,9 @@
 
 To create a dataflow, you need to know that each dataflow has its own parameters that you will write down in the DX-API user interface in a JSON or XML format and will create your Dataflow automatically.
 
-Example of an AzureIoT connector
+<p align="center">
+  <a href="https://github.com/ActilityConnectors/DX-API-Dataflow/blob/master/Connect%20with%20ThingPark%20Wireless/DX-API%20Dataflow%20Swagger%20UI/Connectors%20Example%20Code/AzureIoTHub%20Connector.json">Example of an AzureIoT connector</a> 
+</p>
 
 You could know the different parameters for each connector going to the DX-API documentation or using the ThingPark DX-API application (Swagger UI).
 
