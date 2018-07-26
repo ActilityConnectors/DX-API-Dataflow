@@ -4,7 +4,7 @@ ThingPark DX-API provides a dataflow management solution to process uplink and d
 
 Every configured dataflow is executed within a unique dataflow execution instance. That specific instance can then be associated with multiple devices within the scope of a ThingPark subscriber. A dataflow can be bidirectional, meaning an execution instance can receive and process its device’s uplinks, but also process and send downlinks to its devices.
 
-# DX-API Dataflow Swagger UI
+## DX-API Dataflow Swagger UI
 
 The purpose of this API is to provide the best experience for all developers who intend to interface with ThingPark applications to receive and send messages from they IoT devices.
 To use the ThingPark DX-API Dataflow application you need to have a ThingPark Developer account in any of the following network servers:
