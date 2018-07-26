@@ -1,0 +1,26 @@
+{
+  "id": "",
+  "name": "",
+  "bidirectional": false,
+  "binder": {
+    "classRef": "LRC_HTTP",
+    "properties": {
+      "deviceEUIList": ""
+    }
+  },
+  "driver": {
+    "classRef": ""
+  },
+  "connectors": [
+    {
+      "classRef": "GenericMQTT",
+      "properties": {
+        "hostName": "HostServer:Port",
+        "protocol": "",
+        "accountPrefix": "",
+        "login": "",
+        "password": ""
+      }
+    }
+  ]
+}
