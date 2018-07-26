@@ -11,6 +11,6 @@ To understand the working architecture of a dataflow, see the Figure 1. This fig
 
 To get started follow the next link, introduce your credentials and you will have access to the DX-API application and documentation:
 
-                                            https://dx-api.thingpark.com/getstarted/#/
+                                         https://dx-api.thingpark.com/getstarted/#/
 
 Select the “DX Dataflow API Swagger-UI” and follow the next steps to create your Dataflow.
