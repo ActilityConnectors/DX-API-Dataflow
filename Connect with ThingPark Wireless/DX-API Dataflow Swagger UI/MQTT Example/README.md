@@ -1,6 +1,5 @@
 # MQTT Connector with CloudMQTT
 
-
 To create a new MQTT dataflow here will be explained how to connect with a free third party MQTT broker called CloudMQTT.
 
 Prerequisites:
