@@ -18,18 +18,26 @@ In this tutorial Freeboard it is going to be used as a MQTT client connected to 
 - Create a free trial account in https://freeboard.io/.
 
 - Log in and create a new dashboard in https://freeboard.io/account/.
- 
-![freeboard dashboard](https://user-images.githubusercontent.com/41436968/43262327-06ab794c-90e0-11e8-95b0-78ea14ca6f07.jpg)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/41436968/43262327-06ab794c-90e0-11e8-95b0-78ea14ca6f07.jpg">
+</p>
 
 - Create a “datasource” inside your new dashboard and select the protocol or network server from where you want to retrieve the device information. In this case will be MQTT protocol.
- 
-![freeboard datasource](https://user-images.githubusercontent.com/41436968/43262334-0cb1f08c-90e0-11e8-83cd-542106552632.jpg)
- 
-![freeboard mqtt](https://user-images.githubusercontent.com/41436968/43262341-13433d66-90e0-11e8-850d-360d84c85413.jpg)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/41436968/43262334-0cb1f08c-90e0-11e8-83cd-542106552632.jpg">
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/41436968/43262341-13433d66-90e0-11e8-850d-360d84c85413.jpg">
+</p>
 
 - Put the information of your MQTT broker which will send your device information to Freeboard.
  
-![freeboard template example](https://user-images.githubusercontent.com/41436968/43262358-244ef9a6-90e0-11e8-86b4-e920e999b382.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/41436968/43262358-244ef9a6-90e0-11e8-86b4-e920e999b382.png">
+</p>
 
 Now your connection to Freeboard is ready and you could choose the widget that fit the most to your data!
 
@@ -47,7 +55,9 @@ With the information from your MQTT broker follow the same steps explained above
 - Go to the Datasource creation in the right corner of Freeboard
 - Click "add"
 - Put the information needed, take as an example the information displayed in the next figure
- 
-![freeboard cloudmqtt](https://user-images.githubusercontent.com/41436968/43262363-29b746dc-90e0-11e8-846a-46e186fb2ccd.jpg)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/41436968/43262363-29b746dc-90e0-11e8-846a-46e186fb2ccd.jpg">
+</p>
 
 After following these steps, you will have connected Freeboard with CloudMQTT and you are ready to display the device decoded data!
