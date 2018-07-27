@@ -13,7 +13,7 @@ In this tutorial Freeboard it is going to be used as a MQTT client connected to 
 
 - MQTT broker connected with Actility ThingPark Wireless through a dataflow and AS routing profile previously created.
 
-### Freeboard configuration:
+### Freeboard configuration
 
 - Create a free trial account in https://freeboard.io/.
 
