@@ -33,7 +33,7 @@ To achieve this, follow the next steps:
 
 - Create a new AS Routing Profile and associate the previous application server created (In this tutorial the AS Routing Profile will be called Dweet as well)
 <p align="center">
-  <img src="(https://user-images.githubusercontent.com/41436968/43329965-27c549a4-91c2-11e8-883b-6de684be30a5.jpg">
+  <img src="https://user-images.githubusercontent.com/41436968/43329965-27c549a4-91c2-11e8-883b-6de684be30a5.jpg">
 </p>
 
 - Open your device network settings going to Devices -> List -> Edit (Pencil tool)
