@@ -9,3 +9,11 @@ As an example, you could create a simple Generic HTTP Listener following the ste
 
 With this HTTP server, you could see how Actility send coded device data and create your own application. If you don’t want to create your own application right now, but you want to use this feature you can use dweet.io, which give users the opportunity to send messages to a HTTP server and display them in an easy way.
 
+### Actility and Dweet Tutorial
+Dweet allows users to send data to a specific URL that follow the next pattern:
+https://dweet.io/dweet/for/my-thing-name?hello=world
+Where “my-thing-name” is a unique name of your choice. So, when you have the name decided, go to the ThingPark Wireless interface and create a routing profile that points to this new URL.
+Finally, if you want to retrieve the data just follow the next link, replacing your “thing name” and you will see your device payload.
+https://dweet.io/get/latest/dweet/for/my-thing-name
+
+
