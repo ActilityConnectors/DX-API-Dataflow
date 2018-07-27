@@ -32,19 +32,18 @@ Now with this examples codes you can change the required information and follow 
   <img src="https://user-images.githubusercontent.com/41436968/43319554-7a273a08-91a5-11e8-978e-9a1858747290.JPG">
 </p>
 
-- Paste your code in the Value box as it shows Figures 4 and 5.
- 
-![mqtt connector example](https://user-images.githubusercontent.com/41436968/43263824-aeb629a8-90e4-11e8-80ff-d0b3cf917b54.png)
- 
-![http connector example](https://user-images.githubusercontent.com/41436968/43263825-aecf38bc-90e4-11e8-8629-e83fe92dff8b.png)
+- Paste your code in the Value box as it shows the next figure.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/41436968/43319735-2003db34-91a6-11e8-920a-f5f93530b6a3.JPG">
+</p>
 
 - Click the “Try it out!” button
-- If you follow all the steps correctly your Dataflow will be waiting for the validation process. When the process is done you will receive the email displayed in Figure 3 with the information of your connector:
+- If you follow all the steps correctly your Dataflow will be waiting for the validation process. When the process is done you will receive the next email with the information of your connector:
  
 ![email example](https://user-images.githubusercontent.com/41436968/43263826-aee912e6-90e4-11e8-8cde-077300be4436.png)
 
-After you receive this email now you can go to the Actility ThingPark interface or to the DX Core API and create a new routing profile that points to the next URL:
+While the activation process is completed you can go to the Actility ThingPark interface or to the DX Core API and create a new AS routing profile that points to the next URL:
 
 <p align="center"> https://dx-api.thingpark.com/dataflow/latest/api/uplinkMessages </p>
 
-And your Dataflow will be ready and sending your device information every time that your device sends information to the Actility Network.
+Set this routing profile in your devices and that's it! Your Dataflow is now ready and sending your device information.
