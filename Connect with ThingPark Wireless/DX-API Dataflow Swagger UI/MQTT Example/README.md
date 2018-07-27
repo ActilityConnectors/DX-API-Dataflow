@@ -12,7 +12,7 @@ To create a new MQTT dataflow here will be explained how to connect with a free 
 
 ### Configuration:
 
-- Create an instance and go to details where you will find your MQTT host and the ports to connect using different protocols, see Figure 6.
+- Create an instance and go to details where you will find your MQTT host and the ports to connect using different protocols, see next image.
  
 ![cloudmqtt instance](https://user-images.githubusercontent.com/41436968/43262792-a965bcc8-90e1-11e8-844a-cc40fbd41d6a.png)
 
