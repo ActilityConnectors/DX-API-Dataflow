@@ -28,9 +28,12 @@ Prerequisites:
 
 - With this configuration you are ready to create and test a MQTT Dataflow! Save the information obtained in the previous steps: Server URL, port protocol, port number, user name and password.
 
-With your CloudMQTT account you can go to the DX-API Dataflow application and follow the next steps:
+Now you can go to the DX-API Dataflow application and follow the next steps:
 
 - Select the POST /bridgeDataflows request
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/41436968/43319554-7a273a08-91a5-11e8-978e-9a1858747290.JPG">
+</p>
 
 - Create your JSON/XML code filling the blank spaces in the following text:
 
