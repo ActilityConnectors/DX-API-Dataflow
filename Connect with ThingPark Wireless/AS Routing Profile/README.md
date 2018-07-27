@@ -11,9 +11,13 @@ With this HTTP server, you could see how Actility send coded device data and cre
 
 ### Actility and Dweet Tutorial
 Dweet allows users to send data to a specific URL that follow the next pattern:
+
 https://dweet.io/dweet/for/my-thing-name?hello=world
+
 Where “my-thing-name” is a unique name of your choice. So, when you have the name decided, go to the ThingPark Wireless interface and create a routing profile that points to this new URL.
+
 Finally, if you want to retrieve the data just follow the next link, replacing your “thing name” and you will see your device payload.
+
 https://dweet.io/get/latest/dweet/for/my-thing-name
 
 
