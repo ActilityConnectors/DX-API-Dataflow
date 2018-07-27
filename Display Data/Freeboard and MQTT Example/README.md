@@ -35,14 +35,19 @@ Now your connection to Freeboard is ready and you could choose the widget that f
 
 ## Freeboard example with CloudMQTT
 
-In the next figure you will find an example of the information that is need in Freeboard to connect with CloudMQTT taking the information of MQTT example created in the DX-API Dataflow Swagger UI tutorial. 
+In the next figure you will find an example of the information that is need in Freeboard to connect with CloudMQTT following the previous explanation and taking the information of the MQTT example created in the DX-API Dataflow Swagger UI tutorial. 
 
 <p align="center">
   <a href="https://github.com/ActilityConnectors/DX-API-Dataflow/tree/master/Connect%20with%20ThingPark%20Wireless/DX-API%20Dataflow%20Swagger%20UI/MQTT%20Example">CloudMQTT Example</a> 
 </p>
 
-Also, don’t forget to create a new user and password for the Freeboard connection in CloudMQTT, and retrieve all the information needed from CloudMQTT: Server URL, port protocol, port name and new user credentials (Name and password).
+Also, don’t forget to create a new user and password for the Freeboard connection in CloudMQTT. Then retrieve the information needed from CloudMQTT: Server URL, port protocol, port name and new user credentials (Name and password).
 
-With the information from your MQTT broker go to the Datasource creation, click add and put the information displayed in the next figure. After following these steps, you will have connected Freeboard with CloudMQTT and you are ready to display the device decoded data!
+With the information from your MQTT broker follow the same steps explained above: 
+- Go to the Datasource creation in the right corner of Freeboard
+- Click "add"
+- Put the information needed, take as an example the information displayed in the next figure
  
 ![freeboard cloudmqtt](https://user-images.githubusercontent.com/41436968/43262363-29b746dc-90e0-11e8-846a-46e186fb2ccd.jpg)
+
+After following these steps, you will have connected Freeboard with CloudMQTT and you are ready to display the device decoded data!
