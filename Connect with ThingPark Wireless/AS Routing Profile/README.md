@@ -22,7 +22,9 @@ Where “my-thing-name” is a unique name of your choice. So, when you have you
 
 To achieve this, follow the next steps:
 - Enter in your ThingPark Wireless user interface
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/41436968/43329618-2badfe40-91c1-11e8-8405-d4562fd01ee3.JPG">
+</p>
 - Create a new application server with the URL given above and your thing name
 
 - Create a new AS Routing Profile and associate the previous application server created
