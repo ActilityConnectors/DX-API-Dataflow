@@ -28,6 +28,9 @@ Now with this examples codes you can change the required information and follow 
 
 - Go to the DX API Dataflow
 - Select the POST /bridgeDataflows request
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/41436968/43319554-7a273a08-91a5-11e8-978e-9a1858747290.JPG">
+</p>
 - Paste your code in the Value box as it shows Figures 4 and 5.
  
 ![mqtt connector example](https://user-images.githubusercontent.com/41436968/43263824-aeb629a8-90e4-11e8-80ff-d0b3cf917b54.png)
