@@ -32,7 +32,7 @@ Now with this examples codes you can change the required information and follow 
   <img src="https://user-images.githubusercontent.com/41436968/43319554-7a273a08-91a5-11e8-978e-9a1858747290.JPG">
 </p>
 
-- Paste your code in the Value box as it shows the next figure (Taking the MQTT example, remember that you could use the blank templates adn fill them with your information).
+- Paste your code in the Value box as it shows the next figure (Taking the MQTT example code, remember that you could use the blank templates and fill them with your information).
 <p align="center">
   <img src="https://user-images.githubusercontent.com/41436968/43319735-2003db34-91a6-11e8-920a-f5f93530b6a3.JPG">
 </p>
