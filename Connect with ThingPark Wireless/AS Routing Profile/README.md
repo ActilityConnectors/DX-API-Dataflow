@@ -42,11 +42,19 @@ To achieve this, follow the next steps:
 </p>
 
 - Go to Network settings and associate your new AS Routing Profile
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/41436968/43330257-f6f57f3c-91c2-11e8-91e9-fb7aaa2f0541.JPG">
+</p>
 
-Finally, if you want to retrieve the data just follow the next link, replacing your “thing name” and you will see your device payload.
+That's it your AS Routing Profile is ready! if you want to retrieve the data just follow the next link, replacing your “thing name” and you will see your device payload.
 
 <p align="center">
   https://dweet.io/get/latest/dweet/for/my-thing-name
 </p>  
+
+In the example of this tutorial the information is showed in the next way by Dweet:
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/41436968/43330526-b9a84ce4-91c3-11e8-8b32-e1570d4d1b2c.JPG">
+</p>
 
 
