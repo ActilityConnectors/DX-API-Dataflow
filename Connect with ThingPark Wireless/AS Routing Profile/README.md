@@ -25,7 +25,11 @@ To achieve this, follow the next steps:
 <p align="center">
   <img src="https://user-images.githubusercontent.com/41436968/43329618-2badfe40-91c1-11e8-8405-d4562fd01ee3.JPG">
 </p>
-- Create a new application server with the URL given above and your thing name
+
+- Create a new application server with the URL given above and your thing name (In this tutorial https://dweet.io/dweet/for/ElsysERS?hello=world)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/41436968/43329759-a0515364-91c1-11e8-9074-36dd471f25e1.JPG">
+</p>
 
 - Create a new AS Routing Profile and associate the previous application server created
 
