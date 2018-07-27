@@ -38,7 +38,7 @@ Now you can go to the DX-API Dataflow application and follow the next steps:
 - Create your JSON/XML code filling the blank spaces in the following text:
 
 <p align="center">
-  <a href="https://github.com/ActilityConnectors/Connectors-Code/blob/master/MQTT%20Blank.json">CloudMQTT Example</a>
+  <a href="https://github.com/ActilityConnectors/DX-API-Dataflow/blob/master/Connect%20with%20ThingPark%20Wireless/DX-API%20Dataflow%20Swagger%20UI/Connectors%20Templates/MQTT%20Template.json">CloudMQTT Example</a>
 </p>
 
 - Paste your code in the POST /bridgeDataflows request
