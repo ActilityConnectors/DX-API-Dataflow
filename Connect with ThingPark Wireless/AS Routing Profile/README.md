@@ -26,12 +26,15 @@ To achieve this, follow the next steps:
   <img src="https://user-images.githubusercontent.com/41436968/43329618-2badfe40-91c1-11e8-8405-d4562fd01ee3.JPG">
 </p>
 
-- Create a new application server with the URL given above and your thing name (In this tutorial https://dweet.io/dweet/for/ElsysERS?hello=world)
+- Create a new application server with the URL given above and your thing name (In this tutorial the application server will be called Dweet and will point to https://dweet.io/dweet/for/ElsysERS?hello=world)
 <p align="center">
   <img src="https://user-images.githubusercontent.com/41436968/43329759-a0515364-91c1-11e8-9074-36dd471f25e1.JPG">
 </p>
 
-- Create a new AS Routing Profile and associate the previous application server created
+- Create a new AS Routing Profile and associate the previous application server created (In this tutorial the AS Routing Profile will be called Dweet as well)
+<p align="center">
+  <img src="(https://user-images.githubusercontent.com/41436968/43329965-27c549a4-91c2-11e8-883b-6de684be30a5.jpg">
+</p>
 
 - Open your device network settings going to Devices -> List -> Edit (Pencil tool)
 
