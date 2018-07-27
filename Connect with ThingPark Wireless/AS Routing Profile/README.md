@@ -37,6 +37,9 @@ To achieve this, follow the next steps:
 </p>
 
 - Open your device network settings going to Devices -> List -> Edit (Pencil tool)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/41436968/43330118-926e1c5e-91c2-11e8-9624-80bfb19d0f3a.JPG">
+</p>
 
 - Go to Network settings and associate your new AS Routing Profile
 
