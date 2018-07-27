@@ -20,6 +20,17 @@ Dweet allows users to send data to a specific URL that follow the next pattern:
 
 Where “my-thing-name” is a unique name of your choice. So, when you have your thing name decided, go to the ThingPark Wireless interface and create a routing profile that points to this new URL.
 
+To achieve this, follow the next steps:
+- Enter in your ThingPark Wireless user interface.
+
+- Create a new application server.
+
+- Create a new AS Routing Profile and associate the previous application server created.
+
+- Open your device network settings going to Devices -> List -> Edit (Pencil tool)
+
+- Go to Network settings and associate your new AS Routing Profile
+
 Finally, if you want to retrieve the data just follow the next link, replacing your “thing name” and you will see your device payload.
 
 <p align="center">
