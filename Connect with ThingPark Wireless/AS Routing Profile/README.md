@@ -46,7 +46,7 @@ To achieve this, follow the next steps:
   <img src="https://user-images.githubusercontent.com/41436968/43330257-f6f57f3c-91c2-11e8-91e9-fb7aaa2f0541.JPG">
 </p>
 
-That's it your AS Routing Profile is ready! if you want to retrieve the data just follow the next link, replacing your “thing name” and you will see your device payload.
+That's it your AS Routing Profile is ready! If you want to retrieve the data just follow the next link, replacing your “thing name” and you will see your device payload.
 
 <p align="center">
   https://dweet.io/get/latest/dweet/for/my-thing-name
