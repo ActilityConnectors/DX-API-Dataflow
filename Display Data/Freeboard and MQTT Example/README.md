@@ -60,4 +60,6 @@ With the information from your MQTT broker follow the same steps explained above
   <img src="https://user-images.githubusercontent.com/41436968/43262363-29b746dc-90e0-11e8-846a-46e186fb2ccd.jpg">
 </p>
 
+- Click "Save" and that's it!
+
 After following these steps, you will have connected Freeboard with CloudMQTT and you are ready to display the device decoded data!
