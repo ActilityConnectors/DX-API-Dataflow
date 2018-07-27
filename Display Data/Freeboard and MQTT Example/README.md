@@ -1,9 +1,11 @@
 # Freeboard and MQTT Example
-You can create your own IoT dashboard or use one of the different solutions available on the internet, in this guide we are going to explain how to display device data using a free IoT dashboard called Freeboard.
+In this tutorial it will be explained how to display device data using a free IoT dashboard called Freeboard.
 
-Freeboard is a simple web panel that shows the information of the different IoT devices that you have connected in real time. And, can fully function in the browser as a static web application without the need for a server, acting as a MQTT client. In this guide Freeboard it is going to be used as a MQTT client connected to a MQTT broker.
+Freeboard is a simple web panel that shows the information of the different IoT devices that you have connected in real time. And, can fully function in the browser as a static web application without needing a server, acting as a MQTT client. 
 
-Prerequisites to display your data in Freeboard:
+In this tutorial Freeboard it is going to be used as a MQTT client connected to a generic MQTT broker.
+
+### Prerequisites to display your data in Freeboard:
 
 - ThingPark Wireless application in one of the following network servers: Dev1, IoT, POC.
 
@@ -11,7 +13,7 @@ Prerequisites to display your data in Freeboard:
 
 - MQTT broker connected with Actility ThingPark Wireless through a dataflow and AS routing profile previously created.
 
-Freeboard configuration:
+### Freeboard configuration:
 
 - Create a free trial account in https://freeboard.io/.
 
