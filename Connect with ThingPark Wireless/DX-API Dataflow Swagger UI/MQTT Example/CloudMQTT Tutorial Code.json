@@ -1,0 +1,27 @@
+{
+  "id": "MyMQTT",
+  "name": "My MQTT Connector",
+  "bidirectional": false,
+  "binder": {
+    "classRef": "LRC_HTTP",
+    "properties": {
+      "deviceEUIList": 
+      "A81758FFFE03273B"
+    }
+  },
+  "driver": {
+    "classRef": "Elsys"
+  },
+  "connectors": [
+    {
+      "classRef": "GenericMQTT",
+      "properties": {
+        "hostName": "m20.cloudMQTT.com:10869",
+        "protocol": "TCP",
+        "accountPrefix": "ElsysERS",
+        "login": "User",
+        "password": "****"
+      }
+    }
+  ]
+}
