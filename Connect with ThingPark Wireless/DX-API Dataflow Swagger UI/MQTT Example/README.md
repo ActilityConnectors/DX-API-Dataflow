@@ -43,7 +43,7 @@ Now you can go to the DX-API Dataflow application and follow the next steps:
 
 - Paste your code in the POST /bridgeDataflows request (Here it will be use the blank example code with the infomation previously gathered)
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/41436968/43320976-bedbb124-91aa-11e8-9854-17493a0a4018.JPG">
+  <img src="(https://user-images.githubusercontent.com/41436968/43328454-4ddf1150-91be-11e8-9bb2-261c414fe3c5.JPG">
 </p>
 
 - Click the “Try it out!” button
