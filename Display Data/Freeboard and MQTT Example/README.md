@@ -33,9 +33,15 @@ In this tutorial Freeboard it is going to be used as a MQTT client connected to 
 
 Now your connection to Freeboard is ready and you could choose the widget that fit the most to your data!
 
-## Freeboard example with CloudMQTT:
+## Freeboard example with CloudMQTT
 
-In the next figure you will find an example of the information that is need in Freeboard to connect with CloudMQTT taking the information of the<p> <a href="https://github.com/ActilityConnectors/DX-API-Dataflow/tree/master/Connect%20with%20ThingPark%20Wireless/DX-API%20Dataflow%20Swagger%20UI/MQTT%20Example">CloudMQTT Example</a> </p>created. Also, don’t forget to create a new user and password for the Freeboard connection in CloudMQTT, and retrieve all the information needed from CloudMQTT: Server URL, port protocol, port name and new user credentials (Name and password).
+In the next figure you will find an example of the information that is need in Freeboard to connect with CloudMQTT taking the information of MQTT example created in the DX-API Dataflow Swagger UI tutorial. 
+
+<p align="center">
+  <a href="https://github.com/ActilityConnectors/DX-API-Dataflow/tree/master/Connect%20with%20ThingPark%20Wireless/DX-API%20Dataflow%20Swagger%20UI/MQTT%20Example">CloudMQTT Example</a> 
+</p>
+
+Also, don’t forget to create a new user and password for the Freeboard connection in CloudMQTT, and retrieve all the information needed from CloudMQTT: Server URL, port protocol, port name and new user credentials (Name and password).
 
 With the information from your MQTT broker go to the Datasource creation, click add and put the information displayed in the next figure. After following these steps, you will have connected Freeboard with CloudMQTT and you are ready to display the device decoded data!
  
