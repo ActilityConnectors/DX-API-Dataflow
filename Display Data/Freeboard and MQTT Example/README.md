@@ -5,7 +5,7 @@ Freeboard is a simple web panel that shows the information of the different IoT 
 
 In this tutorial Freeboard it is going to be used as a MQTT client connected to a generic MQTT broker.
 
-### Prerequisites to display your data in Freeboard:
+### Prerequisites to display data in Freeboard:
 
 - ThingPark Wireless application in one of the following network servers: Dev1, IoT, POC.
 
