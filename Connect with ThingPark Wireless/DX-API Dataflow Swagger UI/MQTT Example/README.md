@@ -41,7 +41,10 @@ Now you can go to the DX-API Dataflow application and follow the next steps:
   <a href="https://github.com/ActilityConnectors/DX-API-Dataflow/blob/master/Connect%20with%20ThingPark%20Wireless/DX-API%20Dataflow%20Swagger%20UI/Connectors%20Templates/MQTT%20Template.json">CloudMQTT Example</a>
 </p>
 
-- Paste your code in the POST /bridgeDataflows request
+- Paste your code in the POST /bridgeDataflows request (Here it will be put the blank example code with the infomation previously gathered)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/41436968/43320976-bedbb124-91aa-11e8-9854-17493a0a4018.JPG">
+</p>
 
 - Click the “Try it out!” button
 
