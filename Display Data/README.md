@@ -67,7 +67,7 @@ With the information from your MQTT broker follow the same steps explained above
 
 After following these steps, you will have connected Freeboard with CloudMQTT and you are ready to display the device decoded data!
 
-See an example using a gauge widget in the next image:
+See an example using two gauge widgets in the next image:
 <p align="center">
   <img src="https://user-images.githubusercontent.com/41436968/43325221-7043b910-91b6-11e8-8ee1-9f91c5ea1faa.JPG">
 </p>
