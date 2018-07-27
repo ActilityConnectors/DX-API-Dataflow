@@ -48,4 +48,12 @@ Now you can go to the DX-API Dataflow application and follow the next steps:
 
 - Click the “Try it out!” button
 
-When you receive the validation email your connector will be ready! Don’t forget creating your Dataflow AS routing profile and then go to the WebSocket UI on CloudMQTT to see the messages incoming from Actility.
+- Now your connector will be waiting for the validation process. When the process is done you will receive an email with a change of status to READY for your connector
+
+Don’t forget creating your Dataflow AS routing profile that points to the next URL:
+
+<p align="center">
+  https://dx-api.thingpark.com/dataflow/latest/api/uplinkMessages
+</p>
+
+Set this routing profile in your devices and that's it! Your Dataflow is now ready and sending your device information. Go to the WebSocket UI on CloudMQTT to see the messages incoming from Actility.
