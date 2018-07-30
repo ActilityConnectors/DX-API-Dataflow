@@ -3,8 +3,8 @@
 ThingPark DX-API provides a dataflow management solution to process uplink and downlink data. It allows developers to design and deploy new dataflows for a specific sets of devices, thus enabling data processing on top of the ThingPark Wireless solution for those devices.
 
 In this repository you will find tutorials to retrieve and display devices data from Actility networks servers. 
-- <p><a href="https://github.com/ActilityConnectors/DX-API-Dataflow/tree/master/Connect%20with%20ThingPark%20Wireless">Connect with ThingPark Wireless</a> </p>
-- <p><a href="https://github.com/ActilityConnectors/DX-API-Dataflow/tree/master/Display%20Data">Display Data</a> </p>
+<p align="center"><a href="https://github.com/ActilityConnectors/DX-API-Dataflow/tree/master/Connect%20with%20ThingPark%20Wireless">Connect with ThingPark Wireless</a> </p>
+<p align="center"><a href="https://github.com/ActilityConnectors/DX-API-Dataflow/tree/master/Display%20Data">Display Data</a> </p>
 
 Keep in mind that these tutorials are intended for users that already play with Actility ThingPark Wireless, so you will need to have the next pre-requisites for going successfully through the tutorials:
 -	ThingPark Developer account in one of the following network servers: Dev1, POC or IoT.
