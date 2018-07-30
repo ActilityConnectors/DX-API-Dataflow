@@ -131,4 +131,4 @@ Don’t forget creating your Dataflow AS routing profile that points to the next
   https://dx-api.thingpark.com/dataflow/latest/api/uplinkMessages
 </p>
 
-Set this routing profile in your devices and that's it! Your Dataflow is now ready and sending your device information. Go to the WebSocket UI on CloudMQTT to see the messages incoming from Actility.
+Set this routing profile (As it is shown above) in your devices and that's it! Your Dataflow is now ready and sending your device information. Go to the WebSocket UI on CloudMQTT to see the messages incoming from Actility.
