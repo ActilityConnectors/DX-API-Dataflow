@@ -46,6 +46,7 @@ While the activation process is completed you can go to the Actility ThingPark i
 
 <p align="center"> https://dx-api.thingpark.com/dataflow/latest/api/uplinkMessages </p>
 To achieve this, follow the next steps:
+
 - Enter in your ThingPark Wireless user interface
 <p align="center">
   <img src="https://user-images.githubusercontent.com/41436968/43329618-2badfe40-91c1-11e8-8405-d4562fd01ee3.JPG">
