@@ -9,7 +9,7 @@ As an example, you could create a simple Generic HTTP Listener following the ste
   https://github.com/actility/generic-http-listener 
 </p>                                     
 
-With this HTTP server, you could see how Actility send coded device data and create your own application. But if you don’t want to create your own application right now, and you want to use this feature you can use http://dweet.io/, which give users the opportunity to send messages to a HTTP server and display them in an easy way.
+With this HTTP server, you could see how Actility send coded device data and create your own application. But if you don’t want to create your own application right now, and you want to use this feature you can follow the next tutorial about how to send data through AS Routing Profiles using http://dweet.io/ as an example. Dweet give users the opportunity to send messages to a HTTP server and display them in an easy way.
 
 ### Actility and Dweet Tutorial
 Dweet allows users to send data to a specific URL that follow the next pattern:
