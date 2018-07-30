@@ -1,6 +1,6 @@
 # DX-API-Dataflow
 
-ThingPark DX-API provides a dataflow management solution to process uplink and downlink data. It allows developers to design and deploy new dataflows for specific sets of subscriber devices, thus enabling data processing on top of the ThingPark Wireless solution for those devices.
+ThingPark DX-API provides a dataflow management solution to process uplink and downlink data. It allows developers to design and deploy new dataflows for a specific sets of devices, thus enabling data processing on top of the ThingPark Wireless solution for those devices.
 
 In this repository you will find tutorials to retrieve and display devices data from Actility networks servers. 
 Keep in mind that these tutorials are intended for users that already play with Actility ThingPark Wireless, so you will need to have the next pre-requisites for going successfully through the tutorials:
