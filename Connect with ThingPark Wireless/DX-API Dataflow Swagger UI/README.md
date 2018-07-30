@@ -54,22 +54,22 @@ To achieve this, follow the next steps:
 
 - Create a new HTTP application server with the URL given above (In this tutorial the application server will be called Dataflow, but you can choose the name of your preference)
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/41436968/43329759-a0515364-91c1-11e8-9074-36dd471f25e1.JPG">
+  <img src="https://user-images.githubusercontent.com/41436968/43402750-bcba36a2-9413-11e8-99e0-881c53c2ff78.JPG">
 </p>
 
 - Create a new AS Routing Profile and associate the previous application server created (In this tutorial the AS Routing Profile will be called Dataflow as well)
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/41436968/43329965-27c549a4-91c2-11e8-883b-6de684be30a5.jpg">
+  <img src="https://user-images.githubusercontent.com/41436968/43402761-bf00cdea-9413-11e8-9b8f-171a98774046.jpg">
 </p>
 
 - Open your device network settings going to Devices -> List -> Edit (Pencil tool)
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/41436968/43330118-926e1c5e-91c2-11e8-9624-80bfb19d0f3a.JPG">
+  <img src="https://user-images.githubusercontent.com/41436968/43402765-c0a3285a-9413-11e8-86b2-1ce1e255f0b4.JPG">
 </p>
 
 - Go to Network settings and associate your new AS Routing Profile
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/41436968/43330257-f6f57f3c-91c2-11e8-91e9-fb7aaa2f0541.JPG">
+  <img src="https://user-images.githubusercontent.com/41436968/43402768-c231b7e0-9413-11e8-9e71-bd5e0a17ed0d.jpg">
 </p>
 
 That's it your AS Routing Profile is ready! Your Dataflow is now ready and sending your device information.
