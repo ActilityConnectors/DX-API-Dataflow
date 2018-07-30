@@ -1,5 +1,5 @@
 # Display Data
-To make an IoT application it will be shown how to display data using an IoT dashboard which is a graphical user interface where users can manage their IoT solution for data collection, processing, visualization, and device management.
+Here it will be shown how to display data using an IoT dashboard, or in other words, a graphical user interface where users can manage their IoT solution for data collection, processing, visualization and device management.
 
 ## Freeboard and MQTT Example
 In this tutorial it will be explained how to display device data using a free IoT dashboard called Freeboard.
