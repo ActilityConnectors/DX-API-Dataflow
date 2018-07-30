@@ -6,7 +6,7 @@ In this repository you will find tutorials to retrieve and display devices data 
 Keep in mind that these tutorials are intended for users that already play with Actility ThingPark Wireless, so you will need to have the next pre-requisites for going successfully through the tutorials:
 -	ThingPark Developer account in one of the following network servers: Dev1, POC or IoT.
 -	Gateway and device registered and activated in your account
--	Know how to create and associate AS routing profiles to IoT devices in ThingPark Wireless platform.
+-	Know how to create and associate AS routing profiles to IoT devices in the ThingPark Wireless platform.
 
 If you don’t know how to make this and want to create your IoT application with Actility, you just need to create a new account in our Developers Portal and read our Advanced Developer Guide attached in this repository. Here you have all the tools to get started with Actility!
 
