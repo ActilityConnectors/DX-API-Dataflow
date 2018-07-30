@@ -52,7 +52,7 @@ To achieve this, follow the next steps:
   <img src="https://user-images.githubusercontent.com/41436968/43329618-2badfe40-91c1-11e8-8405-d4562fd01ee3.JPG">
 </p>
 
-- Create a new application server with the URL given above (In this tutorial the application server will be called Dataflow, but you can choose the name of your preference)
+- Create a new HTTP application server with the URL given above (In this tutorial the application server will be called Dataflow, but you can choose the name of your preference)
 <p align="center">
   <img src="https://user-images.githubusercontent.com/41436968/43329759-a0515364-91c1-11e8-9074-36dd471f25e1.JPG">
 </p>
