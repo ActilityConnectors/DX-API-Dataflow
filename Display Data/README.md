@@ -46,7 +46,7 @@ Now your connection to Freeboard is ready and you could choose the widget that f
 
 ## Freeboard example with CloudMQTT
 
-In the next image you will find an example of the information that is need in Freeboard to connect with CloudMQTT following the previous explanation and taking the information of the MQTT example created in the DX-API Dataflow Swagger UI tutorial. 
+In the next image you will find an example of the information that is need in Freeboard to connect with CloudMQTT following the previous explanation and taking the information of the **MQTT Connector with CloudMQTT** example created in the DX-API Dataflow Swagger UI tutorial. 
 
 <p align="center">
   <a href="https://github.com/ActilityConnectors/DX-API-Dataflow/tree/master/Connect%20with%20ThingPark%20Wireless/DX-API%20Dataflow%20Swagger%20UI">CloudMQTT Example</a> 
