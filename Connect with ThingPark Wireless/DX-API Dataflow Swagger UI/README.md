@@ -34,7 +34,7 @@ Now with these examples codes you can change the required information and follow
 
 - Create your JSON code, see the next example where it is explained each part of the code in comments (But don’t forget to erase the comments if you are going to use this code, remember that JSON files dosen't support comments!)
 
-```json
+```
 {
   "id": "",                             Id of your preference, must have at least 6 characters
   "name": "",                          // Name of your preference
