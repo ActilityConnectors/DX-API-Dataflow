@@ -32,11 +32,6 @@ Now with these examples codes you can change the required information and follow
   <img src="https://user-images.githubusercontent.com/41436968/43319554-7a273a08-91a5-11e8-978e-9a1858747290.JPG">
 </p>
 
-- Paste your code in the Value box as it shows the next image (Taking the [MQTT example](https://github.com/ActilityConnectors/DX-API-Dataflow/blob/master/Connect%20with%20ThingPark%20Wireless/DX-API%20Dataflow%20Swagger%20UI/Connectors%20Templates/MQTT%20Template.json) code, remember that you could use the blank templates and fill them with your information).
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/41436968/43319735-2003db34-91a6-11e8-920a-f5f93530b6a3.JPG">
-</p>
-
 - Create your JSON code, see the next example where it is explained each part of the code in comments (But don’t forget to erase the comments if you are going to use this code, remember that JSON files dosen't support comments!)
 
 ```json
@@ -67,6 +62,11 @@ Now with these examples codes you can change the required information and follow
   ]
 }
 ```
+
+- Paste your code in the Value box as it shows the next image (Taking the [MQTT example](https://github.com/ActilityConnectors/DX-API-Dataflow/blob/master/Connect%20with%20ThingPark%20Wireless/DX-API%20Dataflow%20Swagger%20UI/Connectors%20Templates/MQTT%20Template.json) code, remember that you could use the blank templates and fill them with your information).
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/41436968/43319735-2003db34-91a6-11e8-920a-f5f93530b6a3.JPG">
+</p>
 
 - Click the “Try it out!” button
 - If you follow all the steps correctly your Dataflow will be waiting for the validation process. When the process is done you will receive the next email with the information of your connector:
