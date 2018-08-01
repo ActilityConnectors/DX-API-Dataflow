@@ -36,7 +36,7 @@ Now with these examples codes you can change the required information and follow
 
 ```
 {
-  "id": "",                             Id of your preference, must have at least 6 characters
+  "id": "",                            // ID of your preference, must have at least 6 characters
   "name": "",                          // Name of your preference
   "bidirectional": false,              // Define the use case of the connector, false = Uplink , true = Uplink and Downlink
   "binder": {
