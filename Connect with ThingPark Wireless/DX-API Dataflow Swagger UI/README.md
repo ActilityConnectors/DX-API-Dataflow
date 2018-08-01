@@ -36,9 +36,9 @@ Now with these examples codes you can change the required information and follow
 
 ```json
 {
-  "id": "",
-  "name": "",
-  "bidirectional": false,
+  "id": "",                            // Id of your preference, must have at least 6 characters
+  "name": "",                          // Name of your preference
+  "bidirectional": false,              // Define the use case of the connector, false = Uplink , true = Uplink and Downlink
   "binder": {
     "classRef": "LRC_HTTP",
     "properties": {
