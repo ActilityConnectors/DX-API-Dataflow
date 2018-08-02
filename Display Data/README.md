@@ -1,4 +1,4 @@
-# Display Data
+# Tutorial 2: Display Data
 Here it will be shown how to display data using an IoT dashboard, or in other words, a graphical user interface where users can manage their IoT solution for data collection, processing, visualization and device management.
 
 ## Freeboard and MQTT Example
