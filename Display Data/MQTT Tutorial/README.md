@@ -37,9 +37,34 @@ Now you can go to the DX-API Dataflow application and follow the next steps:
 
 - Create your JSON/XML code filling the blank spaces in the following text:
 
-<p align="center">
-  <a href="https://github.com/ActilityConnectors/DX-API-Dataflow/blob/master/Connect%20with%20ThingPark%20Wireless/DX-API%20Dataflow%20Swagger%20UI/Connectors%20Templates/MQTT%20Template.json">CloudMQTT Example</a>
-</p>
+```json
+{
+  "id": "",                            
+  "name": "",                          
+  "bidirectional": false,             
+  "binder": {
+    "classRef": "LRC_HTTP",            
+    "properties": {
+      "deviceEUIList": ""              
+    }
+  },
+  "driver": {
+    "classRef": ""                     
+  },
+  "connectors": [
+    {
+      "classRef": "GenericMQTT",       
+      "properties": {                  
+        "hostName": "HostServer:Port",  
+        "protocol": "",                
+        "accountPrefix": "",
+        "login": "",
+        "password": ""
+      }
+    }
+  ]
+}
+```
 
 - Paste your code in the POST /bridgeDataflows request (Here it will be use the blank example code with the infomation previously gathered and one Elsys sensor)
 <p align="center">
@@ -56,4 +81,4 @@ Don’t forget creating your Dataflow AS routing profile that points to the next
   https://dx-api.thingpark.com/dataflow/latest/api/uplinkMessages
 </p>
 
-Set this routing profile (As it is shown above) in your devices and that's it! Your Dataflow is now ready and sending your device information. Go to the WebSocket UI on CloudMQTT to see the messages incoming from Actility.
+Set this routing profile in your devices defined in the dataflow and that's it! Your Dataflow is now ready and sending your device information. Go to the WebSocket UI on CloudMQTT to see the messages incoming from Actility.
