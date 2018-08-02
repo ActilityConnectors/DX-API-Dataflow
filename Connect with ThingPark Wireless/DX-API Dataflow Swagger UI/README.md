@@ -46,14 +46,14 @@ Now with these examples codes you can change the required information and follow
     }
   },
   "driver": {
-    "classRef": ""                     // Decoder to be use by the connector, go to https://dx-api.thingpark.com/dataflow/latest/product/drivers.html to see the decoders available
+    "classRef": ""                     // Decoder to be used by the connector, go to https://dx-api.thingpark.com/dataflow/latest/product/drivers.html to see the decoders available
   },
   "connectors": [
     {
-      "classRef": "GenericMQTT",
-      "properties": {
-        "hostName": "HostServer:Port",
-        "protocol": "",
+      "classRef": "GenericMQTT",       // Reference name of the connector, go to https://dx-api.thingpark.com/dataflow/latest/product/connectors.html to see the connectors available
+      "properties": {                  // From this part onwards, are the properties of each connector. Go to the connector of your preference in the previous link and choose the properties that fit the most for your cloud connection
+        "hostName": "HostServer:Port",  
+        "protocol": "",                
         "accountPrefix": "",
         "login": "",
         "password": ""
