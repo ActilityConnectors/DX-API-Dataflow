@@ -88,7 +88,7 @@ To achieve this, follow the next steps:
   <img src="https://user-images.githubusercontent.com/41436968/43402750-bcba36a2-9413-11e8-99e0-881c53c2ff78.JPG">
 </p>
 
-- Create a new AS Routing Profile and associate the previous application server created (In this tutorial the AS Routing Profile will be called Dataflow as well)
+- Create a new AS Routing Profile and associate the previous application server (In this tutorial the AS Routing Profile will be called Dataflow as well)
 <p align="center">
   <img src="https://user-images.githubusercontent.com/41436968/43402761-bf00cdea-9413-11e8-9b8f-171a98774046.jpg">
 </p>
