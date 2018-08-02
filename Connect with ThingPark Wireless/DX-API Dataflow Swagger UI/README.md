@@ -40,7 +40,7 @@ Now with these examples codes you can change the required information and follow
   "name": "",                          // Name of your preference
   "bidirectional": false,              // Define the use case of the connector, false = Uplink , true = Uplink and Downlink
   "binder": {
-    "classRef": "LRC_HTTP",
+    "classRef": "LRC_HTTP",            // [GitHub](http://github.com)
     "properties": {
       "deviceEUIList": ""
     }
