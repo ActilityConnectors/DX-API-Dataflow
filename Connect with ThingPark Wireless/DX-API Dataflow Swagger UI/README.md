@@ -40,13 +40,13 @@ Now with these examples codes you can change the required information and follow
   "name": "",                          // Name of your preference
   "bidirectional": false,              // Define the use case of the connector, false = Uplink , true = Uplink and Downlink
   "binder": {
-    "classRef": "LRC_HTTP",            // [GitHub](http://github.com)
+    "classRef": "LRC_HTTP",            // Currently Binder Processor available for dataflows creation (Don't change this)
     "properties": {
-      "deviceEUIList": ""
+      "deviceEUIList": ""              // Your dev EUI key, this device should be registerer in your ThingPark Wireless account
     }
   },
   "driver": {
-    "classRef": ""
+    "classRef": ""                     // Decoder to be use by the connector, go to https://dx-api.thingpark.com/dataflow/latest/product/drivers.html to see the decoders available
   },
   "connectors": [
     {
