@@ -145,9 +145,34 @@ Now you can go to the DX-API Dataflow application and follow the next steps:
 
 - Create your JSON/XML code filling the blank spaces in the following text:
 
-<p align="center">
-  <a href="https://github.com/ActilityConnectors/DX-API-Dataflow/blob/master/Connect%20with%20ThingPark%20Wireless/DX-API%20Dataflow%20Swagger%20UI/Connectors%20Templates/MQTT%20Template.json">CloudMQTT Example</a>
-</p>
+```json
+{
+  "id": "",                            
+  "name": "",                          
+  "bidirectional": false,             
+  "binder": {
+    "classRef": "LRC_HTTP",            
+    "properties": {
+      "deviceEUIList": ""              
+    }
+  },
+  "driver": {
+    "classRef": ""                     
+  },
+  "connectors": [
+    {
+      "classRef": "GenericMQTT",       
+      "properties": {                  
+        "hostName": "HostServer:Port",  
+        "protocol": "",                
+        "accountPrefix": "",
+        "login": "",
+        "password": ""
+      }
+    }
+  ]
+}
+```
 
 - Paste your code in the POST /bridgeDataflows request (Here it will be use the blank example code with the infomation previously gathered and one Elsys sensor)
 <p align="center">
