@@ -11,7 +11,7 @@ Keep in mind that these tutorials are intended for users that already play with 
 -	Gateway and device registered and activated in your account
 -	Know how to create and associate AS routing profiles to IoT devices in the ThingPark Wireless platform.
 
-If you don’t know how to make this and want to create your IoT application with Actility, you just need to create a new account in our Developers Portal and read our Advanced Developer Guide attached in this repository. Here you have all the tools to get started with Actility!
+If you don’t know how to make this and want to create your IoT application with Actility, you just need to create a new account in our Developers Portal and read our [Advanced Developer Guide](https://github.com/ActilityConnectors/DX-API-Dataflow/blob/master/AdvancedThingParkDeveloperGuide_V4.pdf) attached in this repository. Here you have all the tools to get started with Actility!
 
 <p align="center">
   <a href="https://partners.thingpark.com/en">Developers Portal</a>
