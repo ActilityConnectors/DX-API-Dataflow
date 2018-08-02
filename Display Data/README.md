@@ -6,8 +6,6 @@ In this tutorial it will be explained how to display device data using a free Io
 
 Freeboard is a simple web panel that shows the information of the different IoT devices that you have connected in real time. And, can fully function in the browser as a static web application without needing a server, acting as a MQTT client. 
 
-In this tutorial Freeboard it is going to be used as a MQTT client connected to a MQTT broker.
-
 ### Prerequisites to display data in Freeboard:
 
 - ThingPark Wireless application in one of the following network servers: Dev1, IoT, POC.
