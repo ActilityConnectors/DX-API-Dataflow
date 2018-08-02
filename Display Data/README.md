@@ -40,7 +40,7 @@ Freeboard is a simple web panel that shows the information of the different IoT 
   <img src="https://user-images.githubusercontent.com/41436968/43262358-244ef9a6-90e0-11e8-86b4-e920e999b382.png">
 </p>
 
-- See the next image as a real example of the information requeried by freeboard, taking the information of the **MQTT Connector with CloudMQTT** tutorial. 
+- See the next image as a real example of the information requeried by freeboard, taking the information of the [**MQTT Connector with CloudMQTT**](https://user-images.githubusercontent.com/41436968/43328454-4ddf1150-91be-11e8-9bb2-261c414fe3c5.JPG) tutorial. 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/41436968/43262363-29b746dc-90e0-11e8-846a-46e186fb2ccd.jpg">
 </p>
