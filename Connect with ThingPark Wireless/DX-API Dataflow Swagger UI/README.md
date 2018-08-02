@@ -103,7 +103,8 @@ To achieve this, follow the next steps:
   <img src="https://user-images.githubusercontent.com/41436968/43402768-c231b7e0-9413-11e8-9e71-bd5e0a17ed0d.jpg">
 </p>
 
-That's it your AS Routing Profile is ready! Your Dataflow is now ready and sending your device information.
+That's it your AS Routing Profile is ready! Your Dataflow is now ready and sending your device information. 
+If you want to see a more specific tutorial, continue and discover how to create a MQTT connector with CloudMQTT!
 
 ## MQTT Connector with CloudMQTT
 
