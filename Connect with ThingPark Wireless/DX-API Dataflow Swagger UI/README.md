@@ -1,6 +1,6 @@
 # DX-API Dataflow Swagger UI
 
-The purpose of this API is to provide the best experience for all developers who want to interface with ThingPark applications to receive and send messages from their IoT devices.
+The purpose of this API is to provide the best experience for developers who want to interface with ThingPark applications to receive and send messages from their IoT devices.
 
 ### Link to theory
 If you want to familiarize yourself with the functioning of the DX-API Dataflow, do not hesitate and go to the DX-API documentation. Here you could read how this tool works in the front and back end. 
