@@ -42,7 +42,14 @@ In this tutorial Freeboard it is going to be used as a MQTT client connected to 
   <img src="https://user-images.githubusercontent.com/41436968/43262358-244ef9a6-90e0-11e8-86b4-e920e999b382.png">
 </p>
 
-Now your connection to Freeboard is ready and you could choose the widget that fit the most to your data!
+- Click "Save" and that's it!
+
+After following these steps, you will have connected Freeboard with CloudMQTT and you are ready to display the device decoded data!
+
+See an example using two gauge widgets in the next image:
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/41436968/43325221-7043b910-91b6-11e8-8ee1-9f91c5ea1faa.JPG">
+</p>
 
 ## Freeboard example with CloudMQTT
 
