@@ -1,0 +1,26 @@
+{
+  "id": "myDataflow",
+  "name": "Test bridge dataflow",
+  "bidirectional": false,
+  "binder": {
+    "classRef": "LRC_HTTP",
+    "properties": {
+      "deviceEUIList": "0018A20000000004,1023B124000000056,8B9CA14500000001"
+    }
+  },
+  "driver": {
+    "classRef": "AbeewayV2"
+  },
+  "connectors": [
+    {
+      "classRef": "Kafka",
+      "properties": {
+        "accountPrefix": "mycompanyname",
+        "hostName": "hostname.com:9092",
+        "protocol": "SASL_PLAINTEXT",
+		"login": "User",
+		"password": "********"
+      }
+    }
+  ]
+}
