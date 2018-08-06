@@ -1,0 +1,26 @@
+{
+  "id": "",
+  "name": "",
+  "bidirectional": false,
+  "binder": {
+    "classRef": "LRC_HTTP",
+    "properties": {
+      "deviceEUIList": ""
+    }
+  },
+  "driver": {
+    "classRef": ""
+  },
+  "connectors": [
+    {
+      "classRef": "GenericAMQP",
+      "properties": {
+        "accountPrefix": "",
+        "hostName": "",
+        "protocol": "",
+		"login": "",
+		"password": ""
+      }
+    }
+  ]
+}

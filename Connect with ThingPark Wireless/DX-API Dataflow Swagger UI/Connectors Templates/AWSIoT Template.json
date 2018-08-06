@@ -1,0 +1,27 @@
+{
+  "id": "",
+  "name": "",
+  "bidirectional": false,
+  "binder": {
+    "classRef": "LRC_HTTP",
+    "properties": {
+      "deviceEUIList": ""
+    }
+  },
+  "driver": {
+    "classRef": ""
+  },
+  "connectors": [
+    {
+      "classRef": "AWSIoT",
+      "properties": {
+        "accountPrefix": "",
+        "region": "",
+        "protocol": "",
+		"deviceType": "",
+		"accessKeyId": "",
+		"secretAccessKey": ""
+      }
+    }
+  ]
+}

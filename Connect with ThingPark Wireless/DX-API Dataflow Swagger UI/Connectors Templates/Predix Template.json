@@ -1,0 +1,23 @@
+{
+  "id": "",
+  "name": "",
+  "bidirectional": false,
+  "binder": {
+    "classRef": "LRC_HTTP",
+    "properties": {
+      "deviceEUIList": ""
+    }
+  },
+  "driver": {
+    "classRef": ""
+  },
+  "connectors": [
+    {
+      "classRef": "Predix",
+      "properties": {
+        "uplinkAsId": "",
+        "uplinkAsKey": ""
+      }
+    }
+  ]
+}
